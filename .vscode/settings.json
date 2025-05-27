@@ -1,0 +1,19 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+    "workbench.preferredHighContrastLightColorTheme": "Visual Studio Light",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.editor.sharedViewState": true,
+    "workbench.settings.openDefaultSettings": true,
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.mouseWheelZoom": true,
+    "terminal.integrated.persistentSessionReviveProcess": "onExitAndWindowClose",
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.stickyScroll.enabled": true
+}
